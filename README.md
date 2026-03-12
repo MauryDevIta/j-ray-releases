@@ -6,7 +6,7 @@ J-RAY PRO is a blazing-fast, visual node-based JSON editor and data analysis too
 
 Designed with performance and aesthetics in mind, J-RAY PRO combines the power of raw speed with a sleek, modern UI.
 
-(<img width="1916" height="1029" alt="Screenshot 2026-03-12 193957" src="https://github.com/user-attachments/assets/f5a97139-ac2b-4f03-a79d-4ca42d29ac5c" />)
+<img width="1916" height="1029" alt="Screenshot 2026-03-12 193957" src="https://github.com/user-attachments/assets/f5a97139-ac2b-4f03-a79d-4ca42d29ac5c" />
 
 ## ✨ Features
 
