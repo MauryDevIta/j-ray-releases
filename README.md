@@ -82,12 +82,6 @@ You can download the latest pre-compiled, standalone executables for your operat
    *(Note: Ensure you have standard graphic libraries installed, like libxcb, libxkbcommon, and fontconfig).*
 
 
-## 💖 Support the Project
-J-RAY is completely free, open-source, and strictly 0-trackers. If this tool saved you some time debugging a massive JSON payload today, consider buying me a coffee! It helps keep the cyberpunk neon lights on. ⚡
-
-<a href="https://www.buymeacoffee.com/gentilemau6" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217"></a> 
-
-
 ## 📜 License & Disclaimers
 J-RAY PRO includes built-in Swag & License Management. Please read the End User License Agreement (EULA) and Terms of Service before "flexing" with the PRO engines.
 
